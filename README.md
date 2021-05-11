@@ -1,2 +1,2 @@
-# knowledge
-My wiki
+# 🦀 Rust
+
