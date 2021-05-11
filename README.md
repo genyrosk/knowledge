@@ -1,4 +1,4 @@
-# Rust
+# Hello World !
 
-## Learn
+My personal wiki
 

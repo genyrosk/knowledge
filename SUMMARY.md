@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Rust](README.md)
+* [Hello World !](README.md)
+
+## Programming languages
+
+* [Rust](programming-languages/rust.md)
 
