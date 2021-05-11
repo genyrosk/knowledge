@@ -1,4 +1,4 @@
 # Table of contents
 
-* [🦀 Rust](README.md)
+* [Rust](README.md)
 
